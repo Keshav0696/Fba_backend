@@ -1,0 +1,15 @@
+{
+    "appName": "FBADeliveryApp",
+    "url": "http://localhost:3000/",
+    "dbURI": "mongodb://localhost:27017/fbadelivery",
+    "sessionSecret": "testappudaan",
+    "SMTP_HOST": "mail.fbaxchange.com",
+    "SMTP_PORT": 465,
+    "SMTP_USER": "support@fbaxchange.com",
+    "SMTP_PASSWORD":"iEzC({Zty!?y",
+    "SMTP_FROM": "support@fbaxchange.com",
+    "PAYPAL_MODE" : "sandbox",
+    "PAYPAL_CLIENT_ID" : "AWwD_HR6909s6odKjlGi9-8TgIEw3BDI_YWXyazdg7UABWeiKj3VEV0lPFkzufbAOTMfpjyH7yUQeBPB",
+    "PAYPAL_CLIENT_SECRET" : "EG_qS1nUAenpO5Xyo92kAPFFISrmw7_ydVqnDP04BmWLbUslOG4KqFpbjEDW5AEZSlCUiUEqyqWHV4K4"
+
+  }
